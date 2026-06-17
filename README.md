@@ -1,2 +1,2 @@
 # jrvs
-My personal AI assistant
+My personal AI assistant 
